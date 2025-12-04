@@ -1,0 +1,9 @@
+node_modules/
+all/temp/
+all/database.json
+all/user.json
+logs/
+*.log
+.env
+config.js
+ecosystem.config.js
